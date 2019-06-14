@@ -19,3 +19,4 @@ vi-admin
 dsva
 ipsetup
 sa
+postgres
