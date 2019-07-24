@@ -20,3 +20,4 @@ dsva
 ipsetup
 sa
 postgres
+manage
